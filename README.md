@@ -1,7 +1,7 @@
 # Restore automotiverepair_backup.sql Backup in pgAdmin4 (Windows)
 
 ## Steps
-1. Download `automotiverepair_backup.sql`.
+1. Download `automotiverepair_backup.sql` from **Final Project/pg_dump**.
 2. Open **pgAdmin4**.
 3. In the left tree, right‑click **Databases** → **Create** → **Database…**.
 4. Enter a name → click **Save**.
@@ -13,3 +13,4 @@
 ## Notes
 - Select `.sql` files in the file explorer when browsing for backup to open.
 - If collation/version mismatch errors occur, ensure a valid Template is selected under **Definition** tab.
+- Tables and example queries can be found in Final Project documentation.
