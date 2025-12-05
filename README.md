@@ -13,4 +13,4 @@
 ## Notes
 - Select `.sql` files in the file explorer when browsing for backup to open.
 - If collation/version mismatch errors occur, ensure a valid Template is selected under **Definition** tab.
-- Tables and example queries can be found in Final Project documentation.
+- Tables and example queries can be found at the bottom of the Final Project Report.
